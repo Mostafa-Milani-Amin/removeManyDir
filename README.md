@@ -1,6 +1,6 @@
 # removemanydir
 
-> Remove many directory for Node.js.
+> Remove many directory for Node.js. Function that takes as argument an array of paths, "pathArray", and deletes the relative directories.
 
 ## Install
 
