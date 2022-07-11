@@ -1,0 +1,25 @@
+{
+  "name": "removemanydir",
+  "version": "1.0.0",
+  "description": "Remove many directory for Node.js. Function that takes as argument an array of paths, \"pathArray\", and deletes the relative directories.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mostafa-Milani-Amin/removeManyDir.git"
+  },
+  "keywords": [
+    "remove",
+    "directories",
+    "directory",
+    "fs"
+  ],
+  "author": "Mostafa Milani Amin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mostafa-Milani-Amin/removeManyDir/issues"
+  },
+  "homepage": "https://github.com/Mostafa-Milani-Amin/removeManyDir#readme"
+}
